@@ -1,0 +1,5 @@
+git clone - clones the repository from the github to the locals server.
+git add   - adds the file to the repository in the github server.
+git commit -m - changes made can be updated in the repository.
+git push - changes made can be pushed into the repository.
+git status - shows the status of the repository.
